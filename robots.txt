@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://weaving-voices.github.io/sitemap.xml 
