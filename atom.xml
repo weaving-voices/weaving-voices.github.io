@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://weaving-voices.github.io/atom.xml" rel="self"/>
   <link href="http://weaving-voices.github.io/"/>
-  <updated>2014-08-06T15:06:11+03:00</updated>
+  <updated>2014-08-06T15:20:48+03:00</updated>
   <id>http://weaving-voices.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Post - From Tsepelovo]]></title>
+    <link href="http://weaving-voices.github.io/blog/2014/08/06/first-post-from-tsepelovo/"/>
+    <updated>2014-08-06T15:19:06+03:00</updated>
+    <id>http://weaving-voices.github.io/blog/2014/08/06/first-post-from-tsepelovo</id>
+    <content type="html"><![CDATA[<p>Started this blog with Ovidiu in Tsepelovo.</p>
+
+<p>Wed, Aug  6 2014, 15:20 EEST</p>
+]]></content>
+  </entry>
   
 </feed>
